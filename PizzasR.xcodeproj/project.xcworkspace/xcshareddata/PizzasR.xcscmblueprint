@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B15238FB935281F01419CB7B4A5173288B5EEC2A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B15238FB935281F01419CB7B4A5173288B5EEC2A" : 0,
+    "6CB8164659326CE90487AC76D679A68794DCE801" : 0,
+    "2BB965A5E78BCB7217D4DC22E2FD8E158605648D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F04117ED-91D3-4A2B-8A93-B116A1F021F8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B15238FB935281F01419CB7B4A5173288B5EEC2A" : "PizzaR\/",
+    "6CB8164659326CE90487AC76D679A68794DCE801" : "",
+    "2BB965A5E78BCB7217D4DC22E2FD8E158605648D" : "PizzaR\/PizzasR\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PizzasR",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PizzasR.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zaragozar83\/PizzasR.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2BB965A5E78BCB7217D4DC22E2FD8E158605648D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zaragozar83\/PizzasR",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6CB8164659326CE90487AC76D679A68794DCE801"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zaragozar83\/PizzaR.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B15238FB935281F01419CB7B4A5173288B5EEC2A"
+    }
+  ]
+}
